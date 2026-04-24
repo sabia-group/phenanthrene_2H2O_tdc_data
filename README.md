@@ -1,5 +1,11 @@
 # phenanthrene_2H2O_tdc_data
 
+
+traj_1_noH_nooccocc_nounoccunocc   does not contain perturbations from H on the phenanthrene and does not include coupling between 2 occ and  2 unocc  
+
+traj_1_noCH   does not contain perturbations from phenanthrene.  
+
+
 tdc_homo_57_lumo58_full_available_pair_i_j_component_tdcs.csv  
 Provides the time-derivative couplings between states i and j  (for states between 54 and 62, and we ignore i==j)
 
